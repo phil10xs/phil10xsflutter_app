@@ -1,16 +1,13 @@
 # phil10xsflutterapp
 
-A new Flutter application.
+A personal bio Flutter application.
 
-## Getting Started
+## ABOUT PHIL10XS
 
-This project is a starting point for a Flutter application.
+The Flutter UI of an short bio screeen where I showcase my coding stacks.
+Other screens would be coming up as soon as possible.
 
-A few resources to get you started if this is your first Flutter project:
+Design and Development was made from the ground up to suite my taste. I hope this tickles your fancy by the way!!
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/64162838/99879775-3e857f80-2c0f-11eb-8a79-aa3782c1adc7.gif)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
